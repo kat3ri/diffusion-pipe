@@ -28,3 +28,7 @@ easydict
 ftfy
 pytorch-optimizer
 wandb
+gradio
+uvicorn
+fastapi
+toml
