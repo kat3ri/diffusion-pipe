@@ -32,3 +32,4 @@ gradio
 uvicorn
 fastapi
 toml
+mtcnn
