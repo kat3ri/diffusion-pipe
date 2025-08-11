@@ -33,3 +33,5 @@ uvicorn
 fastapi
 toml
 mtcnn
+tensorflow
+onnxruntime
