@@ -1,9 +1,7 @@
-torch
-torchvision
-deepspeed
+deepspeed==0.17.0
 toml
 transformers
-diffusers>=0.32.1
+git+https://github.com/huggingface/diffusers@50e18ee6982f8006e7247c756c573b8204fe354b
 datasets
 pillow
 sentencepiece
@@ -19,7 +17,7 @@ av
 einops
 accelerate
 loguru
-flash-attn
+#flash-attn==2.8.1
 omegaconf
 iopath
 termcolor
@@ -28,6 +26,7 @@ easydict
 ftfy
 pytorch-optimizer
 wandb
+optimum-quanto
 gradio
 uvicorn
 fastapi
